@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54186993513",
+    "project_id": "alu-launch-305a4",
+    "storage_bucket": "alu-launch-305a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54186993513:android:f734730b5aae300a563ff8",
+        "android_client_info": {
+          "package_name": "com.example.alu_launch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM-gpfQWk3sgO2irPB1aE8c6D6y0ii3lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
